@@ -44,10 +44,10 @@ Technologies of my everyday life:
 
 # 
 
-![KerygmaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=kerygma-dev&show_icons=true&theme=radical&count_private=true)
+![KerygmaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MensoDev&show_icons=true&theme=radical&count_private=true)
 
 #
 
 Most used languages on GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerygma-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MensoDev)](https://github.com/anuraghazra/github-readme-stats)
