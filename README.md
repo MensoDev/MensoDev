@@ -15,12 +15,12 @@ A few more facts about me:
 
 My Contacts:
 
-[![Blog](https://img.shields.io/website?label=kerygma.dev.br&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://kerygma.dev.br) 
+[![Blog](https://img.shields.io/website?label=menso.dev.br&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://menso.dev.br) 
 [![Zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5582998445577&text=Oi) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTFDAxnZsBbSeBdyaKdQ5ZQ) 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kerygmadev) 
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mensodev) 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:emersont@outlook.com.br) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerygmadev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mensodev/) 
 
 
 #
@@ -44,7 +44,7 @@ Technologies of my everyday life:
 
 # 
 
-![KerygmaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MensoDev&show_icons=true&theme=radical&count_private=true)
+![MensoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MensoDev&show_icons=true&theme=radical&count_private=true)
 
 #
 
